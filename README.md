@@ -35,58 +35,111 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Specialized+in+LLMs%2C+Multi-Agent+Systems+%26+MLOps;Turning+Complex+Problems+into+Elegant+Solutions" alt="About Me" />
+</div>
+
+<br/>
+
+<table align="center" style="border: none;">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 
 </td>
 <td width="50%" valign="top">
 
-```yaml
-name: Darshan Dalvi
-role: AI Engineer & Data Scientist
+<div align="left">
 
-focus:
-  - 🤖 AI Agents & Automation
-  - 💬 LLM-Powered Applications
-  - 🧠 Machine & Deep Learning
-  - 📊 Data Engineering
+### 💫 About Me
 
-current_work:
-  - Building intelligent AI agents
-  - Designing reasoning systems
-  - Creating ML solutions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&vCenter=true&multiline=true&width=500&height=280&lines=📍+Based+in+India;+;🎯+AI+Engineer+%26+Data+Scientist;+;💻+Expert+in+Python+%7C+SQL;+;🤖+Specialized+in+LLMs+%26+AI+Agents;+;🔧+Currently+Building:;+++++Multi-agent+Systems;+++++LLM+Automation+Tools;+++++ML+Production+Pipelines;+;🌱+Learning:+RAG+%7C+Vector+DBs;+;✨+Passionate+about+MLOps+%26+System+Design" alt="About Me Animation" />
 
-interests:
-  - Multi-agent orchestration
-  - Advanced LLM reasoning
-  - Predictive modeling
-  - MLOps & deployment
+<br/>
 
-philosophy:
-  "Build systems that think,
-   not just respond"
-```
+<div align="center">
+  
+**💭 Philosophy**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=%22Build+systems+that+think%2C;not+just+respond%22" alt="Motto" />
+
+</div>
+
+</div>
 
 </td>
 </tr>
 </table>
 
+<br/>
 
+<div align="center">
+  
+### 🎯 What Drives Me
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+<br/><b>AI Innovation</b>
+<br/><sub>Pushing boundaries of what's possible</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<br/><b>Clean Code</b>
+<br/><sub>Writing maintainable solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
+<br/><b>Continuous Learning</b>
+<br/><sub>Always exploring new tech</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="60"/>
+<br/><b>Collaboration</b>
+<br/><sub>Building together</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
 ## 💫 What I Do
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
+
+<br/>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+
 ### 🤖 AI Engineering
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-4ECDC4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFE66D?style=for-the-badge&logoColor=black" />
+</p>
+
 - ✨ Multi-agent system orchestration
 - 🔗 LLM integration & fine-tuning
 - 🎯 Prompt engineering & optimization
@@ -96,7 +149,21 @@ philosophy:
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+
 ### 📊 Data Science & ML
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Predictive_Modeling-9B59B6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-E74C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_Pipelines-3498DB?style=for-the-badge&logoColor=white" />
+</p>
+
 - 🎲 Predictive modeling & forecasting
 - 🔍 Feature engineering & selection
 - 📈 Statistical analysis & visualization
@@ -104,7 +171,27 @@ philosophy:
 - 🛠️ End-to-end ML pipelines
 
 </td>
----
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎨 My Expertise Spectrum
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI_Research-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Training-10B981?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Engineering-F59E0B?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-EC4899?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge&logo=blueprint&logoColor=white" />
+</p>
+
+</div>
+
+<br/>
+
 
 <div align="center">
 
@@ -234,13 +321,9 @@ philosophy:
 </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darshan-dalvi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" alt="Coding Stats" />
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
