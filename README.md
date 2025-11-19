@@ -3,24 +3,179 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F77F&width=435&lines=Welcome+to+GitHub;I+am+Darshan+;Lifelong+Learner+%26;%22AI+Enthusiast%22;Let's+Connect+!)](https://git.io/typing-svg)
 
 
-I’m currently pursuing a **B.Tech in Computer Science Engineering with a focus on Data Science**. My passion lies in **Artificial Intelligence (AI)** and **Data Science**. I’m fascinated by how AI works and the logic behind it, and I’m eager to dive deeper into this field.
+<!-- ========================= HERO SECTION ========================= -->
 
-### What I’m Doing
+<div align="center">
+  
 
-- **Studying**: Engaged in my studies with a keen interest in AI and data science.
-- **Exploring**: Learning about various AI algorithms, data processing techniques, and machine learning models.
-- **Building**: Working on personal projects to apply and expand my knowledge in AI and data science.
+  <!-- Social & Profile Badges -->
+  <img src="https://komarev.com/ghpvc/?username=darshan-dalvi&color=blueviolet&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/darshan-dalvi?tab=followers">
+    <img src="https://img.shields.io/github/followers/darshan-dalvi?label=Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/darshan-dalvi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/darshan-dalvi?affiliations=OWNER&style=flat-square&label=Total%20Stars" alt="GitHub Stars" />
+  </a>
 
-### Interests
+</div>
 
-- **AI**: Understanding how artificial intelligence systems are designed and function.
-- **Data Science**: Exploring data analysis, statistical models, and data-driven decision making.
+---
 
-Feel free to browse my repositories to see what I’m working on and connect with me, if you have any questions or interesting projects related to AI and data science!
+## 👋 Hey, I’m Darshan  
 
-## Contact
+**AI Engineer & Data Science Enthusiast** focused on building **AI agents, LLM-powered automation, and data-driven systems**.  
+I enjoy working where **machine learning, data engineering, and autonomous AI workflows** meet.
 
-- **Email**: darshandalvi1270@gmail.com
+---
+
+## ⚡ About Me  
+
+- 🤖 I build **AI agents & automation workflows** using tools like CrewAI, LangChain & custom LLM pipelines  
+- 📊 I work with **ML & DL models** for prediction, classification & insights  
+- 🧠 I love designing **reasoning systems** that do more than just “answer questions”  
+- 🔧 I care about **clean data pipelines**, structure, and deployment-ready code  
+
+---
+
+## 🧩 Skills
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow" /><br/>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch" /><br/>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="Scikit-learn" /><br/>Scikit-learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="SQL" /><br/>SQL / Postgres
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux" /><br/>Linux
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /><br/>Docker
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" /><br/>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LLMs-%F0%9F%A4%96-blue?style=for-the-badge" height="32" alt="LLMs" /><br/>LLMs
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%20Agents-%F0%9F%A4%96-black?style=for-the-badge" height="32" alt="Agents" /><br/>Agents
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack (Quick View)  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan-dalvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-dalvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-dalvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🔥 Featured Projects  
+
+> Swap links & repo names with your real ones – these are just examples.
+
+### 🤖 AI Agents & Automation  
+
+[![AI Agents Framework](https://img.shields.io/badge/Repo-AI%20Agents%20Framework-000000?style=for-the-badge&logo=github)](https://github.com/darshan-dalvi/ai-agents-framework)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
+[![Tech](https://img.shields.io/badge/Tech-LLMs%20%7C%20CrewAI%20%7C%20LangChain-blue?style=flat-square)]()
+
+> Multi-agent system for orchestrating AI agents to automate complex workflows using CrewAI & LLMs.
+
+---
+
+### 📊 ML & Data Science  
+
+[![ML Projects](https://img.shields.io/badge/Repo-ML%20Playground-000000?style=for-the-badge&logo=github)](https://github.com/darshan-dalvi/ml-playground)
+[![Status](https://img.shields.io/badge/Status-Experiments-orange?style=flat-square)]()
+[![Tech](https://img.shields.io/badge/Tech-Scikit--Learn%20%7C%20Pandas%20%7C%20DL-red?style=flat-square)]()
+
+> Collection of ML models, notebooks, and experiments in classification, regression & forecasting.
+
+---
+
+### 🧪 LLM & Reasoning Systems  
+
+[![LLM Pipelines](https://img.shields.io/badge/Repo-LLM%20Pipelines-000000?style=for-the-badge&logo=github)](https://github.com/darshan-dalvi/llm-pipelines)
+[![Status](https://img.shields.io/badge/Status-Building-blueviolet?style=flat-square)]()
+[![Tech](https://img.shields.io/badge/Tech-OpenAI%20API%20%7C%20LangChain%20%7C%20Agents-1E90FF?style=flat-square)]()
+
+> End-to-end pipelines that combine LLM reasoning, tools, and memory for practical AI workflows.
+
+---
+
+## 🐍 Contribution Graph Snake  
+
+<div align="center">
+
+  <!-- Dark mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/darshan-dalvi/darshan-dalvi/blob/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/darshan-dalvi/darshan-dalvi/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/darshan-dalvi/darshan-dalvi/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
+
+---
+
+## 📫 Contact  
+
+- 📩 **Email:** darshandalvi1270@gmail.com  
+
+Always open to collaborating on **AI, data, automation, and experiments that might break but teach something cool.** 😄
+
+
 
 Looking forward to collaborating and learning together! 
 
