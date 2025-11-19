@@ -26,86 +26,62 @@
 
 <br/>
 
+---
 
 <div align="center">
 
 ## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Specialized+in+LLMs%2C+Multi-Agent+Systems+%26+MLOps;Turning+Complex+Problems+into+Elegant+Solutions" alt="About Me" />
-</div>
-
-<br/>
-
-<table align="center" style="border: none;">
+<table align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350" />
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="middle">
+
+<div align="center">
+
+### 👋 Hi, I'm Darshan Dalvi
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Systems;Specialized+in+LLMs+%26+AI+Agents" alt="Typing SVG" />
+</p>
+
+</div>
+
+<br/>
 
 <div align="left">
 
-### 💫 About Me
+```diff
++ 📍 Location: India
++ 💼 Role: AI Engineer & Data Scientist
++ 💻 Languages: Python, SQL
++ 🎯 Focus: LLMs, AI Agents, MLOps
++ 🔧 Building: Multi-agent Systems & ML Pipelines
++ 🌱 Learning: Advanced RAG, Vector Databases
++ ✨ Passion: Clean Code & Scalable AI Solutions
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&vCenter=true&multiline=true&width=500&height=280&lines=📍+Based+in+India;+;🎯+AI+Engineer+%26+Data+Scientist;+;💻+Expert+in+Python+%7C+SQL;+;🤖+Specialized+in+LLMs+%26+AI+Agents;+;🔧+Currently+Building:;+++++Multi-agent+Systems;+++++LLM+Automation+Tools;+++++ML+Production+Pipelines;+;🌱+Learning:+RAG+%7C+Vector+DBs;+;✨+Passionate+about+MLOps+%26+System+Design" alt="About Me Animation" />
+</div>
 
 <br/>
 
 <div align="center">
   
-**💭 Philosophy**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=%22Build+systems+that+think%2C;not+just+respond%22" alt="Motto" />
-
-</div>
+**💭 "Build systems that think, not just respond"**
 
 </div>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  
-### 🎯 What Drives Me
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
-<br/><b>AI Innovation</b>
-<br/><sub>Pushing boundaries of what's possible</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-<br/><b>Clean Code</b>
-<br/><sub>Writing maintainable solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60"/>
-<br/><b>Continuous Learning</b>
-<br/><sub>Always exploring new tech</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="60"/>
-<br/><b>Collaboration</b>
-<br/><sub>Building together</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
