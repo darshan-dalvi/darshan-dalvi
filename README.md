@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/github/stars/darshan-dalvi?affiliations=OWNER&style=for-the-badge&label=Stars&color=yellow" alt="GitHub Stars" />
 </p>
 
-<!-- Social Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshan-dalvi/darshan-dalvi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshan-dalvi/darshan-dalvi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshan-dalvi/darshan-dalvi/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+<br/>
 
 ---
 
@@ -32,34 +32,48 @@
 
 ## 🚀 About Me
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="100%" />
+
+</td>
+<td width="50%" valign="top">
 
 ```yaml
 name: Darshan Dalvi
-role: AI Engineer & Data Science Enthusiast
-focus: 
-  - AI Agents & Automation Workflows
-  - LLM-Powered Applications
-  - Machine Learning & Deep Learning
-  - Data Engineering & Analytics
+role: AI Engineer & Data Scientist
+
+focus:
+  - 🤖 AI Agents & Automation
+  - 💬 LLM-Powered Applications
+  - 🧠 Machine & Deep Learning
+  - 📊 Data Engineering
 
 current_work:
-  - Building intelligent AI agents with CrewAI & LangChain
-  - Designing autonomous reasoning systems
-  - Creating data-driven ML solutions
+  - Building intelligent AI agents
+  - Designing reasoning systems
+  - Creating ML solutions
 
 interests:
-  - 🤖 Multi-agent orchestration systems
-  - 🧠 Advanced LLM reasoning & tool use
-  - 📊 Predictive modeling & analytics
-  - 🔧 MLOps & deployment pipelines
+  - Multi-agent orchestration
+  - Advanced LLM reasoning
+  - Predictive modeling
+  - MLOps & deployment
 
-philosophy: "Build systems that think, not just respond"
+philosophy:
+  "Build systems that think,
+   not just respond"
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -185,23 +199,74 @@ philosophy: "Build systems that think, not just respond"
 </div>
 
 <div align="center">
-  
-<a href="https://github.com/darshan-dalvi/ai-agents-framework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-dalvi&repo=ai-agents-framework&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/darshan-dalvi/ml-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-dalvi&repo=ml-playground&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+### 🤖 [Nina AI](https://github.com/darshan-dalvi/nina-ai)
+[![Stars](https://img.shields.io/github/stars/darshan-dalvi/nina-ai?style=social)](https://github.com/darshan-dalvi/nina-ai)
+[![Forks](https://img.shields.io/github/forks/darshan-dalvi/nina-ai?style=social)](https://github.com/darshan-dalvi/nina-ai)
 
-<a href="https://github.com/darshan-dalvi/llm-pipelines">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-dalvi&repo=llm-pipelines&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+**Ultra-efficient offline LLM inference engine** for all devices from edge to enterprise. Built for speed, built for everyone.
 
-<a href="https://github.com/darshan-dalvi/data-engineering-toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darshan-dalvi&repo=data-engineering-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+`🔧 Tech:` Python | LLM | Edge Computing
 
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Movie Recommendation System](https://github.com/darshan-dalvi/Movie-Recommendation-System)
+[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Movie-Recommendation-System?style=social)](https://github.com/darshan-dalvi/Movie-Recommendation-System)
+
+**Intelligent movie recommendation engine** using collaborative filtering and content-based algorithms.
+
+`🔧 Tech:` JavaScript | ML | Recommendation Systems
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Bank Loan Analysis](https://github.com/darshan-dalvi/Bank-Loan-Analysis)
+[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Bank-Loan-Analysis?style=social)](https://github.com/darshan-dalvi/Bank-Loan-Analysis)
+
+**Comprehensive financial data analysis** for loan approval predictions and risk assessment.
+
+`🔧 Tech:` HTML | Data Analysis | Visualization
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Steam Analysis](https://github.com/darshan-dalvi/Steam-Analysis)
+[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Steam-Analysis?style=social)](https://github.com/darshan-dalvi/Steam-Analysis)
+
+**Gaming platform analytics** with insights on user behavior, game trends, and recommendations.
+
+`🔧 Tech:` HTML | Data Science | Analytics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [Healthcare Data Analysis](https://github.com/darshan-dalvi/Healthcare-Data-Analysis-Dashboard)
+[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Healthcare-Data-Analysis-Dashboard?style=social)](https://github.com/darshan-dalvi/Healthcare-Data-Analysis-Dashboard)
+
+**Interactive healthcare dashboard** for patient data analysis and medical insights.
+
+`🔧 Tech:` Jupyter Notebook | Python | Data Viz
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [Voice Agent](https://github.com/darshan-dalvi/voice-agent)
+
+**AI-powered voice interaction system** for natural language processing and voice commands.
+
+`🔧 Tech:` Python | NLP | Voice Processing
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -210,33 +275,19 @@ philosophy: "Build systems that think, not just respond"
 <summary>💼 More About My Projects</summary>
 <br/>
 
-### 🤖 AI Agents & Automation
-**Multi-Agent Orchestration System**
-- Built with CrewAI, LangChain, and custom LLM integrations
-- Implements autonomous task planning and execution
-- Features tool use, memory systems, and inter-agent communication
-- Tech: Python, OpenAI API, Vector DBs, FastAPI
+### 🤖 AI & LLM Applications
+**Nina AI** - An ultra-efficient, offline-capable LLM inference engine designed to run on devices from edge to enterprise. Focuses on performance optimization and accessibility, making powerful AI available everywhere.
 
-### 📊 Machine Learning & Analytics
-**End-to-End ML Pipeline Collection**
-- Classification, regression, clustering, and time-series forecasting
-- Feature engineering, model optimization, and deployment
-- Comprehensive notebooks with detailed explanations
-- Tech: Scikit-learn, TensorFlow, PyTorch, XGBoost
+**Voice Agent** - AI-powered voice interaction system that leverages natural language processing for intelligent voice command recognition and response generation.
 
-### 🧠 LLM Applications
-**Advanced Reasoning & Tool Use Systems**
-- Custom prompt engineering frameworks
-- RAG (Retrieval-Augmented Generation) implementations
-- Multi-step reasoning with tool integration
-- Tech: LangChain, ChromaDB, OpenAI, Anthropic APIs
+### 📊 Data Science & Analytics
+**Movie Recommendation System** - Implements advanced recommendation algorithms combining collaborative filtering and content-based approaches to provide personalized movie suggestions.
 
-### 🔧 Data Engineering
-**Scalable Data Processing Pipelines**
-- ETL workflows for large-scale data processing
-- Real-time data streaming and batch processing
-- Database optimization and data warehousing
-- Tech: Pandas, PostgreSQL, Docker, Apache Airflow
+**Bank Loan Analysis** - End-to-end financial analysis pipeline for predicting loan approvals and assessing credit risk using machine learning models.
+
+**Steam Analysis** - Comprehensive analysis of the Steam gaming platform, including user behavior patterns, game trends, and personalized recommendation systems.
+
+**Healthcare Data Analysis Dashboard** - Interactive dashboard providing deep insights into patient data, treatment outcomes, and healthcare trends using advanced visualization techniques.
 
 </details>
 
