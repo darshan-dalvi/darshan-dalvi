@@ -26,7 +26,6 @@
 
 <br/>
 
----
 
 <div align="center">
 
@@ -40,7 +39,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%" />
 
 </td>
 <td width="50%" valign="top">
@@ -75,7 +74,7 @@ philosophy:
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -108,7 +107,7 @@ philosophy:
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
@@ -166,7 +165,7 @@ philosophy:
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
----
+
 
 <div align="center">
 
@@ -189,107 +188,6 @@ philosophy:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-dalvi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b" alt="Contribution Graph" />
 
 </div>
-
----
-
-<div align="center">
-
-## 🌟 Featured Projects
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [Nina AI](https://github.com/darshan-dalvi/nina-ai)
-[![Stars](https://img.shields.io/github/stars/darshan-dalvi/nina-ai?style=social)](https://github.com/darshan-dalvi/nina-ai)
-[![Forks](https://img.shields.io/github/forks/darshan-dalvi/nina-ai?style=social)](https://github.com/darshan-dalvi/nina-ai)
-
-**Ultra-efficient offline LLM inference engine** for all devices from edge to enterprise. Built for speed, built for everyone.
-
-`🔧 Tech:` Python | LLM | Edge Computing
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [Movie Recommendation System](https://github.com/darshan-dalvi/Movie-Recommendation-System)
-[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Movie-Recommendation-System?style=social)](https://github.com/darshan-dalvi/Movie-Recommendation-System)
-
-**Intelligent movie recommendation engine** using collaborative filtering and content-based algorithms.
-
-`🔧 Tech:` JavaScript | ML | Recommendation Systems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 [Bank Loan Analysis](https://github.com/darshan-dalvi/Bank-Loan-Analysis)
-[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Bank-Loan-Analysis?style=social)](https://github.com/darshan-dalvi/Bank-Loan-Analysis)
-
-**Comprehensive financial data analysis** for loan approval predictions and risk assessment.
-
-`🔧 Tech:` HTML | Data Analysis | Visualization
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [Steam Analysis](https://github.com/darshan-dalvi/Steam-Analysis)
-[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Steam-Analysis?style=social)](https://github.com/darshan-dalvi/Steam-Analysis)
-
-**Gaming platform analytics** with insights on user behavior, game trends, and recommendations.
-
-`🔧 Tech:` HTML | Data Science | Analytics
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [Healthcare Data Analysis](https://github.com/darshan-dalvi/Healthcare-Data-Analysis-Dashboard)
-[![Stars](https://img.shields.io/github/stars/darshan-dalvi/Healthcare-Data-Analysis-Dashboard?style=social)](https://github.com/darshan-dalvi/Healthcare-Data-Analysis-Dashboard)
-
-**Interactive healthcare dashboard** for patient data analysis and medical insights.
-
-`🔧 Tech:` Jupyter Notebook | Python | Data Viz
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ [Voice Agent](https://github.com/darshan-dalvi/voice-agent)
-
-**AI-powered voice interaction system** for natural language processing and voice commands.
-
-`🔧 Tech:` Python | NLP | Voice Processing
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<details>
-<summary>💼 More About My Projects</summary>
-<br/>
-
-### 🤖 AI & LLM Applications
-**Nina AI** - An ultra-efficient, offline-capable LLM inference engine designed to run on devices from edge to enterprise. Focuses on performance optimization and accessibility, making powerful AI available everywhere.
-
-**Voice Agent** - AI-powered voice interaction system that leverages natural language processing for intelligent voice command recognition and response generation.
-
-### 📊 Data Science & Analytics
-**Movie Recommendation System** - Implements advanced recommendation algorithms combining collaborative filtering and content-based approaches to provide personalized movie suggestions.
-
-**Bank Loan Analysis** - End-to-end financial analysis pipeline for predicting loan approvals and assessing credit risk using machine learning models.
-
-**Steam Analysis** - Comprehensive analysis of the Steam gaming platform, including user behavior patterns, game trends, and personalized recommendation systems.
-
-**Healthcare Data Analysis Dashboard** - Interactive dashboard providing deep insights into patient data, treatment outcomes, and healthcare trends using advanced visualization techniques.
-
-</details>
 
 ---
 
@@ -323,7 +221,7 @@ philosophy:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -333,7 +231,7 @@ philosophy:
 
 </div>
 
----
+
 
 <div align="center">
   
